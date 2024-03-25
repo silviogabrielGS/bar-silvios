@@ -7,5 +7,5 @@
     height: 300px;
     width: 170px;
     -moz-orient: vertical;
-    image-orientation: from-image;
+    image-orientation: initial;
 }
