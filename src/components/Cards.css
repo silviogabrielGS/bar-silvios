@@ -3,8 +3,9 @@
     height: 400px;
 }
 
-
 #img-card{
     height: 300px;
+    width: 170px;
     -moz-orient: vertical;
+    image-orientation: from-image;
 }
