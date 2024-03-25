@@ -5,6 +5,7 @@
 
 
 #img-card{
-    height: max-content;
+    height: 350px;
     width: 200px;
+    -moz-orient: vertical;
 }
