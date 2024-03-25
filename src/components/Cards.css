@@ -6,6 +6,5 @@
 #img-card{
     height: 300px;
     width: 170px;
-    -moz-orient: vertical;
-    image-orientation: initial;
+    rotate: 0deg;
 }
