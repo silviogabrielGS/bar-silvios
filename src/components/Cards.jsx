@@ -8,7 +8,7 @@ function Cards(card) {
     return (
         <>
             <Card id='card' className='d-flex flex-wrap' >
-                <Card className='m-1 w-50 my-auto '> 
+                <Card className='m-1 my-auto '> 
                     <img id='img-card' className='w-100' src={card.src} alt={card.alt} />
                 </Card>
                 <Card.Body id='card-body' className=' w-50'>
