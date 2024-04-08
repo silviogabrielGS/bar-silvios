@@ -9,7 +9,7 @@ function QuemSomos() {
                 </div>
                 <div className=" d-flex flex-column justify-content-center align-items-center w-50">
                     <TituloPreto content="Quem somos"> </TituloPreto>
-                    <p className="p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, harum! Veniam doloremque nobis id, repellendus magni assumenda cupiditate consectetur ab pariatur voluptatum, consequatur ex rem ea, accusantium odio sit qui!</p>
+                    <p className="p-4">O bar se Iniciou com o seu Silvio (Avô). Que infelizmente faleceu no ano de 2022. O seu neto (Que também se chama Silvio) produziu esse site, para ajudar a vender as garrafas que ainda estão no bar.</p>
                 </div>
             </section>
     )
